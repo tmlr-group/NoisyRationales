@@ -7,27 +7,6 @@
     <img src="https://badges.toozhao.com/badges/01JCCWZ3SZ9SXSGJ18FAHT8ANT/green.svg" />
     <img src="https://img.shields.io/github/stars/tmlr-group/NoisyRationales?color=yellow&label=Star" alt="Stars" >
 </p>
-</div>
-<div class="is-size-5 publication-authors" align="center">
-            <span class="author-block">
-              <a href="https://github.com/AndrewZhou924">Zhanke Zhou</a><sup>1</sup>,
-            </span>
-            <span class="author-block">
-              Rong Tao<sup>1</sup>,
-            </span>
-            <span class="author-block">
-              <a href="https://zfancy.github.io/">Jianing Zhu</a><sup>1</sup>,
-            </span>
-            <span class="author-block">
-              Yiwen Luo<sup>2</sup>,
-            </span>
-            <span class="author-block">
-              <a href="https://scholar.google.com.hk/citations?user=tTqiJpQAAAAJ&hl=en">Zengmao Wang</a><sup>2</sup>,
-            </span>
-            <span class="author-block">
-              <a href="https://bhanml.github.io/">Bo Han</a><sup>1</sup>
-            </span>
-</div>
 
 <div align="center">
     <img src="./imgs/figure-problem.png" width="70%"/>
@@ -186,16 +165,6 @@ The results would appear in `./results/{task}/{subtask}/{model}/{method}/`
 
 The file will be `log_[ICL_|][n_clean_shots]clean_[noise_[n_noisy_shots][inaccurate|irrelevant]_[fixed|random]_ratio[ratio]|origin]_case[cases_num]_temp[temperature]_n[reasoning_times].json`
 
-<!-- ## Citation
-```
-@article{li2023deepinception,
-  title={Deepinception: Hypnotize large language model to be jailbreaker},
-  author={Li, Xuan and Zhou, Zhanke and Zhu, Jianing and Yao, Jiangchao and Liu, Tongliang and Han, Bo},
-  journal={arXiv preprint arXiv:2311.03191},
-  year={2023}
-}
-``` -->
-
 ## Config Introduction
 
 |Category | Parameter | Sub-Parameter | Description |Examples|
@@ -232,28 +201,13 @@ The file will be `log_[ICL_|][n_clean_shots]clean_[noise_[n_noisy_shots][inaccur
 ||noise_ratio| ratio of each thought insert a sentence irrelavant noise or become a minor-error thought|0.2, 0.5, 0.8|
 ||noise_distribution| fixed noise num in a example shot or just same possibilty to insert noise in each thought| "fixed", "random"| -->
 
-<!-- ## **Leaderboard**
-
-<div align="center">
-    <img src="./imgs/self-correction & self-consistency baselines.jpg" width="90%"/>
-    <br>
-    <em>Performance of Self-correction and Self-consistency baselines.</em>
-</div>
-
-<div align="center">
-    <img src="./imgs/baselines requiring additional supervision.jpg" width="90%"/>
-    <br>
-    <em>Performance of baselines that require additional information.</em>
-</div> -->
-
-<!-- !!todo: link to NoRa leaderboard website -->
 
 ## **Citation**
 
 If you find our work helpful, please kindly cite our paper:
 
 ```
-@inproceedings{zhoucan,
+@inproceedings{zhou2024can,
   title={Can Language Models Perform Robust Reasoning in Chain-of-thought Prompting with Noisy Rationales?},
   author={Zhou, Zhanke and Tao, Rong and Zhu, Jianing and Luo, Yiwen and Wang, Zengmao and Han, Bo},
   booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
