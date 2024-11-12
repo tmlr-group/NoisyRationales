@@ -109,6 +109,29 @@ OPENAI_API_BASE=[YOUR_API_BASE_HERE]
 
 <!-- If you would like to run `NoRa` with Vicuna, Llama, and Falcon locally, modify `config.py` with the proper path of these three models. -->
 
+## Project Structure
+
+The repository is organized as follows:
+
+- `data/`: Contains raw datasets and preprocessed datasets
+  - Original datasets used for generation
+  - Pre-processed datasets ready for experiments
+
+- `data_process/`: Libraries and utilities for dataset processing and manipulation
+
+- `method/`: Implementation of different noise handling methods
+  - Various approaches for handling noisy rationales in chain-of-thought prompting
+
+- `llm_model/`: Interfaces for different large language models
+  - Wrappers and utilities for interacting with various LLMs
+
+- `noise_test.py`: Main experiment script for testing noise rationale handling
+
+- `config.yml`: Configuration file for experiment settings
+  - Model parameters
+  - Dataset options
+  - Testing configurations
+
 ## Run experiments
 
 **NoRa** supports three task categories with corresponding subtasks:
