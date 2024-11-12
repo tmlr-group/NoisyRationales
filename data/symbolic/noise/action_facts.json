@@ -1,0 +1,125 @@
+[
+    {
+        "phrase": "left",
+        "facts": [
+            "In countries with right-hand traffic, turning left at a traffic light often requires a green arrow to indicate a protected turn.",
+            "Making a left turn typically exposes a driver to oncoming traffic, increasing the complexity of the turn relative to turning right.",
+            "Left turns are generally disallowed on red lights in many countries, unlike right turns which can often be made after stopping if the way is clear.",
+            "In a standard competition track and field event, athletes make left turns to complete circuits around the track.",
+            "In aviation, pilots use the term 'left turn' to describe a change in heading to the left of the aircraft's current direction.",
+            "The instruction to 'turn left' is an essential part of many navigation systems, providing directional guidance to drivers."
+        ]
+    },
+    {
+        "phrase": "right",
+        "facts": [
+            "Turning right in countries that drive on the right side of the road typically does not intersect with oncoming traffic.",
+            "In left-hand traffic jurisdictions, such as the UK, turning right is analogous to turning left in right-hand traffic jurisdictions, crossing the path of oncoming vehicles.",
+            "Motorists in many areas are allowed to turn right at a red traffic signal after coming to a complete stop and ensuring the road is clear.",
+            "Certain traffic circles or roundabouts require all entering traffic to turn right regardless of the direction they intend to take.",
+            "For maritime navigation, turning right is referred to as turning 'starboard,' which is the nautical term for the right side of a vessel.",
+            "In computer graphics, a right turn can be simulated using rotation matrices or quaternion operations to pivot an object's orientation."
+        ]
+    },
+    {
+        "phrase": "around",
+        "facts": [
+            "A turn-around maneuver is often necessary when one has passed a destination or is going the wrong way.",
+            "The phrase 'turn around' is often used metaphorically to signify a complete change in situation or attitude.",
+            "In dance, a turn around may involve a pivot or spin, completing a full circle back to the original orientation.",
+            "Emergency vehicles such as fire trucks or ambulances may perform a 'turn around' quickly to respond to an urgent call.",
+            "Many GPS navigation systems will issue a 'turn around' command if the driver deviates from the planned route."
+        ]
+    },
+    {
+        "phrase": "opposite",
+        "facts": [
+            "The command to 'turn opposite' is not standard in directional terms but implies facing or moving in the opposite direction.",
+            "In military drill commands, a command to 'about face' is the equivalent of turning to the opposite direction.",
+            "When reversing direction in a vehicle, one may 'turn opposite' the way they are currently facing to execute a full reversal.",
+            "In board games or strategy games, a move to the 'opposite' side might involve turning pieces to face the other direction.",
+            "In navigation, to 'turn opposite' could be understood as taking a route that leads in the opposite direction of the current heading.",
+            "The phrase 'turn opposite' could be used in physical fitness routines to describe alternating movements or directional changes."
+        ]
+    },
+    {
+        "phrase": "walk",
+        "facts": [
+            "Walking is a low-impact aerobic activity that can improve cardiovascular health and strengthen muscles.",
+            "The average human walking speed is about 3 miles per hour, or 5 kilometers per hour.",
+            "Walking upright on two feet is a defining characteristic of the human species and is known as bipedalism.",
+            "Regular walking has been shown to reduce the risk of chronic diseases such as heart disease, stroke, and diabetes.",
+            "The longest unbroken walkable distance on Earth stretches from Cape Town, South Africa, to Magadan, Russia, a distance of over 22,000 km.",
+            "Walking is not only a mode of transportation but also a popular recreational activity and a competitive sport in events like racewalking."
+        ]
+    },
+    {
+        "phrase": "run",
+        "facts": [
+            "The 100-meter sprint is one of the most popular and prestigious running events in track and field athletics.",
+            "Regular running has been associated with increased lifespan and reduced risk of many diseases, including cancer.",
+            "Biomechanical efficiency plays a significant role in running, and proper form can greatly improve a runner's speed and reduce injury risk.",
+            "Ultra-marathons are running events that exceed the standard marathon distance of 42 kilometers or 26 miles.",
+            "Sprinting involves a burst of high-speed running and is typically done in short distances, such as 100 to 400 meters.",
+            "Humans have evolved as endurance runners, with features like long legs, short toes, and large gluteus muscles aiding in long-distance running."
+        ]
+    },
+    {
+        "phrase": "look",
+        "facts": [
+            "The human eye can distinguish approximately 10 million different colors and has automatic focusing abilities.",
+            "When people are told to 'look', they instinctively shift their gaze and attention toward a specified direction or object.",
+            "Eye-tracking technology can analyze where a person is looking and how long they look at certain points.",
+            "The command 'look' is frequently used in instructional settings, prompting individuals to direct their focus to important visual information.",
+            "In cognitive psychology, visual attention mechanisms determine how we selectively look at, process, and remember visual stimuli.",
+            "Looking at bright screens before bedtime can interfere with sleep quality by suppressing the production of the hormone melatonin."
+        ]
+    },
+    {
+        "phrase": "jump",
+        "facts": [
+            "The high jump is an athletic event where competitors must leap over a horizontal bar at various heights without aid.",
+            "Frogs use their powerful hind legs to jump, and some species can leap over 20 times their body length in a single bound.",
+            "Jumping exercises, such as plyometrics, are used by athletes to improve explosive power and strength.",
+            "The long jump is a track and field event where athletes combine speed, strength, and agility to leap as far as possible from a take-off point.",
+            "Skydiving is an extreme sport involving a high-altitude jump from an aircraft and free-falling before deploying a parachute."
+        ]
+    },
+    {
+        "phrase": "twice",
+        "facts": [
+            "The term 'twice' is numerically equivalent to two times or doubling the quantity or occurrence of something.",
+            "In music, repeating a phrase 'twice' is often indicated by the direction 'bis', especially in written sheet music.",
+            "In geometry, if an object is scaled up 'twice' its original size, each of its dimensions is increased by a factor of two.",
+            "When giving directions, saying 'turn left twice' implies two sequential left turns, often leading to a change in direction.",
+            "Cooking recipes may instruct to fold or mix ingredients 'twice' to ensure even distribution and consistency.",
+            "In computer programming, executing a loop 'twice' means to iterate through the same set of instructions two times."
+        ]
+    },
+    {
+        "phrase": "thrice",
+        "facts": [
+            "The word 'thrice' is an archaic or literary term for three times and is less commonly used in everyday language than 'twice'.",
+            "In some cultures, doing something 'thrice' can have symbolic significance, such as knocking three times for luck.",
+            "In mathematics, tripling a number is equivalent to increasing it 'thrice' its original value.",
+            "When navigating, being instructed to perform an action 'thrice' would mean to repeat the action three consecutive times.",
+            "The phrase 'measure twice, cut thrice' humorously inverts the carpenter's adage of careful measurement to avoid mistakes.",
+            "In literature, the repetition of events or phrases 'thrice' can be used to build emphasis or create a pattern."
+        ]
+    },
+    {
+        "phrase": "action sequence",
+        "facts": [
+            "An action sequence in programming refers to a series of operations executed in order, often within an algorithm or loop.",
+            "In cinematography, an action sequence is a part of the film where intense physical actions such as fights or chases take place.",
+            "Action sequences in user experience design are the steps a user follows to interact with a system to achieve a goal.",
+            "In cognitive science, an action sequence might relate to the steps the brain takes to translate thought into motion.",
+            "Video games are designed with action sequences that challenge players' reflexes, strategic thinking, and problem-solving skills.",
+            "In robotics, an action sequence involves a set of commands that direct a robot to perform a series of tasks.",
+            "Action sequences in emergency protocols are predefined steps taken to mitigate risk and ensure safety.",
+            "In sports coaching, action sequences are used to describe a set of movements that athletes must perform correctly.",
+            "The action sequence of a chemical reaction involves a series of steps that lead to the formation of products from reactants.",
+            "In animation, an action sequence is a series of frames showing a character performing a continuous movement."
+        ]
+    }
+]

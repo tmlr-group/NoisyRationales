@@ -1,0 +1,369 @@
+{
+    "noise_info":
+    [
+        {
+            "number":"0",
+            "facts":[
+                "In physics, zero represents absolute zero, the lowest possible temperature where all molecular motion ceases.",
+                "Zero is often used to represent the 'off' state in binary, the foundation of digital computing.",
+                "The zeroth law of thermodynamics states that if two systems are in thermal equilibrium with a third, they are in equilibrium with each other.",
+                "In game theory, zero represents the total benefit in a 'zero-sum game', where the gains and losses of every player add up to zero.",
+                "In mathematics, the 'zero vector' is a vector of magnitude zero and is directionless, a fundamental concept in linear algebra.",
+                "In chemistry, pH 0 on the pH scale represents extreme acidity.",
+                "In biology, Group 0 in the human blood type classification represents the universal blood donor type (O).",
+                "In astronomy, a zero-age main sequence star (ZAMS) is a star that has just started nuclear fusion of hydrogen in its core."
+            ]
+        }, 
+        {
+            "number":"1",
+            "facts":[
+                "In physics, the number one is the charge of a single unit of positive or negative electricity.",
+                "One often represents the 'on' state in binary code, which underlies digital computing.",
+                "The first law of thermodynamics states that energy cannot be created or destroyed, only transferred or transformed.",
+                "In mathematics, one is the first counting number and the starting point of the natural numbers.",
+                "The 'one-gene-one-enzyme hypothesis' in genetics proposes that each gene is responsible for producing a single enzyme that influences a specific metabolic pathway.",
+                "In chemistry, hydrogen, which has an atomic number of 1, is the most abundant element in the universe.",
+                "In biology, humans have one heart, which pumps blood throughout the body.",
+                "In astronomy, Earth is located in the \"1 AU\" (Astronomical Unit) vicinity from the Sun, which defines the average distance between the Earth and the Sun."
+            ]
+        },
+        {
+            "number":"2",
+            "facts":[
+                "In chemistry, two is the atomic number of helium, the second most abundant element in the Universe.",
+                "Humans have two sets of each of their chromosomes, making us diploid organisms.",
+                "Einstein's theory of relativity connects energy to mass with the equation E=mc², where c is the speed of light squared.",
+                "Two is the base of the binary code, used extensively in computer science.",
+                "In mathematics, an area is a two-dimensional size of a defined part of a surface.",
+                "In mathematics, two is the smallest and first prime number.",
+                "In astronomy, Mars, the second planet after Earth, has 2 moons.",
+                "In human anatomy, the body is largely symmetrical with two halves."
+            ]
+        },
+        {
+            "number":"3",
+            "facts":[
+                "Physics recognises three laws of motion, first compiled by Isaac Newton.",
+                "In chemistry, three is the atomic number of lithium, a metal often used in rechargeable batteries.",
+                "There are three types of RNA in biology: messenger RNA (mRNA), ribosomal RNA (rRNA), and transfer RNA (tRNA).",
+                "Computer science recognizes a three-state logic (also known as ternary) that uses three states: true, false, and unknown.",
+                "A three-dimensional figure in mathematics has width, height, and depth, adding a sense of space and reality to objects.",
+                "In computer science, a tri-state boolean can have 3 states: true, false, and unknown.",
+                "In colors, there are three primary colors: red, yellow, and blue.",
+                "In astronomy, Earth is the third planet from the Sun in our Solar System."
+            ]
+        },
+        {
+            "number":"4",
+            "facts":[
+                "There are four fundamental forces in physics that govern the interactions of matter: gravity, electromagnetism, the strong force, and the weak force.",
+                "Four is the atomic number of beryllium in chemistry, which is used as an alloying agent in producing beryllium copper.",
+                "DNA is made up of four types of nitrogen bases: Adenine, Thymine, Cytosine, and Guanine.",
+                "A 32-bit system architecture in computer science uses data units that are 32 bits (4 bytes) wide.",
+                "A four-dimensional space in mathematics adds a fourth dimension to the conventional three dimensions, often interpreted as time in the context of spacetime.",
+                "In geometry, a square has four equal sides and four right angles.",
+                "In astronomy, Jupiter, the largest planet in our Solar System, has four large moons known as the Galilean moons.",
+                "In chemistry, carbon, which has the atomic number of 4, is the basis for organic chemistry and life."
+            ]
+        },
+        {
+            "number":"5",
+            "facts":[
+                "String theory in physics posits that the universe is made up of tiny strings that vibrate at different frequencies, and there are five consistent versions of this theory.",
+                "Five is the atomic number of boron in chemistry, a metalloid used in various applications, from detergents to rocket fuel igniters.",
+                "Humans have five basic senses: sight, hearing, smell, taste, and touch.",
+                "The standard Ethernet (network cable) in computer science supports speeds up to 100 Mbps and uses Category 5 cabling.",
+                "In mathematics, five is the third prime number, after two and three.",
+                "In astronomy, the dwarf planet Pluto (now classified as a \"plutoid\") was for a long time considered the 5th planet from the Sun after Mars.",
+                "There are five oceans on Earth: the Atlantic, Pacific, Indian, Arctic, and Southern.",
+                "In geometry, a pentagon is a five-sided polygon."
+            ]
+        },
+        {
+            "number":"6",
+            "facts":[
+                "According to the Standard Model of physics, there are six types of quarks, the fundamental constituents of matter.",
+                "Six is the atomic number of carbon in chemistry, a key element for life as we know it.",
+                "Insects, a major group of arthropods, have six legs, distinguishing them from other arthropods like spiders.",
+                "The hexadecimal system in computer science is base-16, from 0-F, and is often used in programming.",
+                "Six is the first perfect number in mathematics, where a perfect number is a positive integer that is equal to the sum of its positive divisors excluding itself.",
+                "The standard guitar has six strings.",
+                "In astronomy, Saturn is the sixth planet from the Sun in our solar system.",
+                "In geometry, a hexagon is a six-sided polygon."
+            ]
+        },
+        {
+            "number":"7",
+            "facts":[
+                "There are seven colors in a rainbow in physics, which appear when light is dispersed through a medium like water droplets.",
+                "Seven is the atomic number of nitrogen in chemistry, which makes up about 78% of Earth's atmosphere by volume.",
+                "There are seven taxonomic ranks in the hierarchical classification of organisms in biology: Kingdom, Phylum, Class, Order, Family, Genus, Species.",
+                "The ASCII (American Standard Code for Information Interchange) code in computer science uses 7 bits to represent characters.",
+                "In mathematics, seven is the fourth prime number, and it cannot be multiplied or divided within the set {1,2,3,4,5,6}.",
+                "In physics, there are seven colors in the visible spectrum: red, orange, yellow, green, blue, indigo, and violet.",
+                "In biology, a rainbow is seen in seven colors due to the refraction of light.",
+                "In geography, there are seven continents on Earth: Africa, Antarctica, Asia, Australia, Europe, North America, and South America."
+            ]
+        },
+        {
+            "number":"8",
+            "facts":[
+                "In physics, eight is the number of vertices of a cube.",
+                "Eight is the atomic number of oxygen in chemistry, an element essential for human life.",
+                "Spiders, part of the arachnid family in biology, typically have eight legs.",
+                "In computer science, a byte is typically made up of 8 bits.",
+                "In mathematics, eight is the base of the octal number system, which is mostly used in digital systems that require a more compact representation of data.",
+                "In mathematics, eight is a Fibonacci number and a cube number.",
+                "In physics, there are eight gluon color states responsible for the strong interaction in quantum chromodynamic.",
+                "In music, an octave consists of eight notes in the Western musical scale."
+            ]
+        },
+        {
+            "number":"9",
+            "facts":[
+                "In physics, nine is the Ringel–Youngs theorem, which states that any finite-dimensional associative algebra over the real numbers has an element of square root of -1.",
+                "Nine is the atomic number of fluorine in chemistry, a highly reactive and abundant element.",
+                "The gestation period of a human pregnancy is typically nine months.",
+                "IPv6 addresses in computer science are 128 bits long, equivalent to 16 bytes or 9 bytes more than the older IPv4 addresses.",
+                "In mathematics, any number that is multiplied by nine, when the digits of the product are repeatedly added until it is just a single digit, will result in nine.",
+                "In mythology and religion, there are nine realms in Norse Cosmology.",
+                "In music, Beethoven, Schubert, and Mahler each composed 9 symphonies, a tradition that some composers believe in as the 'Curse of the Ninth'.",
+                "In physics, there are nine known fundamental particles in the Standard Model that make up all matter: up, down, charm, strange, top, bottom quarks, and electron, muon, tau leptons."
+            ]
+        },
+        {
+            "number":"10",
+            "facts":[
+                "In physics, the decibel scale for measuring sound intensity is a logarithmic scale with a base of 10.",
+                "Ten is the atomic number of neon in chemistry, a noble gas that is commonly used in neon advertising signs.",
+                "The decimal system, which is the most commonly used number system in the world, has a base of 10.",
+                "In computer science, the 'Big 10' is a group of ten core subjects that are fundamental in the field, including algorithms and data structures, computer organization and architecture, and software engineering.",
+                "In mathematics, any number raised to the power of 0 is 1, and any number raised to the power of 1 is the number itself, so 10^0 = 1 and 10^1 = 10.",
+                "The number 10 is symbolic in many cultures, often representing perfection or completeness.",
+                "In sports, the number 10 is traditionally worn by the playmaker or star player in a soccer team.",
+                "In the Bible, the number 10 represents law and responsibility, as seen in the Ten Commandments."
+            ]
+        },
+        {
+            "number":"11",
+            "facts":[
+                "In physics, string theory posits that there are 11 dimensions in the universe (10 spatial dimensions and 1 temporal dimension).",
+                "Eleven is the atomic number of sodium in chemistry, a reactive metal that's a key component of table salt.",
+                "In human biology, the body has 11 major organ systems: integumentary, skeletal, muscular, nervous, endocrine, cardiovascular, lymphatic, respiratory, digestive, urinary, and reproductive.",
+                "In computer science, '11' is the binary representation of the decimal number 3.",
+                "In mathematics, eleven is a prime number, meaning it has no factors other than 1 and itself.",
+                "In sports, cricket teams traditionally consist of 11 players on each side.",
+                "The Apollo 11 mission was the first spaceflight that landed humans on the Moon.",
+                "In numerology, 11 is considered a master number, signifying intuition, insight, and enlightenment."
+            ]
+        },
+        {
+            "number":"12",
+            "facts":[
+                "In physics, there are 12 types of fundamental particles known as fermions, which include six quarks and six leptons.",
+                "Twelve is the atomic number of magnesium in chemistry, a crucial element for life known to be a cofactor in over 300 enzymatic reactions.",
+                "Humans typically have 12 pairs of ribs in their skeletal structure.",
+                "In computer science, '12' is represented as '1100' in binary notation.",
+                "In mathematics, twelve is a highly composite number, as it has more divisors than any number smaller than it.",
+                "In many cultures, 12 is a significant number, representing a complete cycle, as seen in 12 months of the year.",
+                "The 12 Zodiac signs represent different personality traits and are used in astrology.",
+                "In Greek mythology, the 12 labors of Hercules are a series of episodes concerning a penance carried out by Hercules."
+            ]
+        },
+        {
+            "number":"13",
+            "facts":[
+                "In quantum mechanics, the atomic spectral line 1s-2p transition of hydrogen corresponds to the wavelength of 13 nanometers.",
+                "Thirteen is the atomic number of aluminium in chemistry, a post-transition metal that's widely used for its lightness and resistance to corrosion.",
+                "There are 13 vitamins that the human body needs: vitamins A, C, D, E, K, and the 8 types of B vitamins.",
+                "In computer science, ROT13 (rotate by 13 places) is a simple letter substitution cipher.",
+                "In mathematics, thirteen is a prime number, the 6th prime number in the series, following 2, 3, 5, 7, and 11.",
+                "In many Western cultures, the number 13 is considered unlucky and is sometimes omitted from floor numbering in buildings.",
+                "Thirteen is the age at which Jewish boys and girls become Bar and Bat Mitzvah, respectively, symbolizing coming of age.",
+                "A baker's dozen traditionally consists of 13 items, one more than the standard dozen."
+            ]
+        },
+        {
+            "number":"14",
+            "facts":[
+                "In physics, there are 14 types of Bravais lattices in three-dimensional crystallography.",
+                "Fourteen is the atomic number of silicon in chemistry, a key element used in semiconductors and various electronics.",
+                "Humans have 14 phalangeal bones in each hand and foot, which make up the fingers and toes.",
+                "In computer science, the EBCDIC (Extended Binary Coded Decimal Interchange Code) character set consists of up to 14 bits.",
+                "In mathematics, fourteen is the number of days in a fortnight.",
+                "In many cultures, 14 is a symbol of good luck and is often associated with romantic love, especially because of Valentine's Day occurring on February 14.",
+                "In classical music, Ludwig van Beethoven's 'Moonlight Sonata' is Piano Sonata No 14 and is one of his most famous compositions.",
+                "In mathematics, fourteen is the smallest even number that is neither a square nor a prime number."
+            ]
+        },
+        {
+            "number":"15",
+            "facts":[
+                "In physics, 15 is the number of known types of spin-ice configurations in a geometrically frustrated magne",
+                "Fifteen is the atomic number of phosphorus in chemistry, an essential element in all forms of life.",
+                "There are 15 facial bones in the human skull (not including the mandible, or lower jaw bone).",
+                "In computer science, a 15-puzzle is a sliding puzzle that consists of a frame of numbered square tiles in random order with one tile missing.",
+                "In mathematics, fifteen is a triangular number, meaning it can be arranged in a triangle with five items on a side.",
+                "In mathematics, a group of 15 is known as a pentadecagon, which is a polygon with 15 sides and 15 angles.",
+                "Fifteen is the atomic number of phosphorus in chemistry, an essential element for life as part of DNA and RNA.",
+                "In binary, the decimal number 15 is represented as '1111', which is the maximum four-digit binary number."
+            ]
+        },
+        {
+            "number":"16",
+            "facts":[
+                "In physics, 16O (Oxygen-16) is the most abundant isotope of oxygen and accounts for about 99% of natural oxygen.",
+                "Sixteen is the atomic number of sulfur in chemistry, an essential element for life found in two amino acids and two vitamins.",
+                "There are 16 ounces in a pound in the avoirdupois system of measurement.",
+                "In computer science, hexadecimal is a base-16 number system, and it is widely used in programming.",
+                "In mathematics, sixteen is a square number (4^2), meaning it can be arranged in a square with four items on a side.",
+                "In human biology, 16 is the number of chromosomes in the parasite that causes malaria (Plasmodium falciparum).",
+                "In computer science, a 'nibble' is a four-bit aggregation, or half an octet, and two nibbles make up a byte, which is 16 bits.",
+                "In mathematics, sixteen is a square number (4^2), and it is the fourth power of two (2^4)."
+            ]
+        },
+        {
+            "number":"17",
+            "facts":[
+                "In physics, group 17 elements in the periodic table are known as the halogens, which include fluorine and chlorine.",
+                "Seventeen is the atomic number of chlorine in chemistry, a halogen that's widely used in disinfectants.",
+                "In human biology, the kidneys filter about 17 liters of blood every hour.",
+                "In computer science, the '17 undecidable problems' is a list of computational problems proven to be unsolvable.",
+                "In mathematics, seventeen is a prime number, which can only be divided by 1 and itself.",
+                "Seventeen is a Fermat prime, as it is in the form of 2^(2^n) + 1, with n = 2.",
+                "The 'Rule of Seventeen' in bridge is a guideline for estimating the strength of one's hand.",
+                "In computer science, the Windows 17 operating system is a fictitious version, as Microsoft has not released such a version."
+            ]
+        },
+        {
+            "number":"18",
+            "facts":[
+                "In physics, there are 18 families of elementary particles in the Standard Model.",
+                "Eighteen is the atomic number of argon in chemistry, a noble gas that is colorless, odorless, and used in lighting and lasers.",
+                "Humans have 18 muscles in each hand, which control fine motor movements.",
+                "In computer science, the UTF-18 character set is a proposed extension of the Unicode standard to include a wider range of characters.",
+                "In mathematics, eighteen is the only number that equals twice the sum of its decimal digits (1+8=9, and 9*2=18).",
+                "In the Jewish tradition, the number 18 symbolizes 'chai', which means 'life' in Hebrew.",
+                "In Tarot, the Moon card is card number 18, representing intuition, dreams, and the unconscious.",
+                "In golf, a standard round consists of 18 holes."
+            ]
+        },
+        {
+            "number":"19",
+            "facts":[
+                "In physics, the nineteenth century marked the discovery of thermodynamics, leading to the development of the steam engine and the industrial revolution.",
+                "Nineteen is the atomic number of potassium in chemistry, an essential mineral for the function of all living cells.",
+                "In human biology, the first 19 elements of the periodic table are all found in the human body.",
+                "In computer science, the ISO-8859-19 standard is used for encoding Baltic languages, among others.",
+                "In mathematics, nineteen is a prime number, the 8th prime number in the series.",
+                "A standard basketball game consists of four quarters, each lasting 19 minutes in many high school associations.",
+                "In human biology, the human adult skull is made up of 19 bones when the mandible (a separate bone) is included.",
+                "COVID-19, which stands for 'Coronavirus Disease 2019', was named for the year it was first identified."
+            ]
+        },
+        {
+            "number":"20",
+            "facts":[
+                "In physics, the twentieth century saw the development of quantum physics and the theory of relativity, two fundamental shifts in our understanding of the universe.",
+                "Twenty is the atomic number of calcium in chemistry, an essential element for human life, crucial for bone health.",
+                "Humans normally have 20 deciduous (primary or \"baby\") teeth that start to appear at about six months of age.",
+                "In computer science, the number 20 is often used in benchmarks and tests due to its convenient divisibility.",
+                "In mathematics, twenty is the basis of vigesimal number systems and is used in scoring many traditional games."
+            ]
+        },
+        {
+            "number":"21",
+            "facts":[
+                "In blackjack, the goal is to have cards adding up to 21, without exceeding this number, thus making it a critical number in one of the most popular casino games.",
+                "Many cultures celebrate the 21st birthday as a significant milestone, marking the transition into full adulthood.",
+                "In mathematics, 21 is a triangular number, meaning it can be depicted as an equilateral triangle with dots."
+            ]
+        },
+        {
+            "number":"22",
+            "facts":[
+                "The number 22 is associated with balance and high potential in numerology.",
+                "In many team sports, including football and rugby, 22 signifies the total number of players on the field.",
+                "The Hebrew alphabet consists of 22 letters, which are used to compose the Torah."
+            ]
+        },
+        {
+            "number":"23",
+            "facts":[
+                "The number 23 is a prime number, and it's uniquely a part of a twin prime pair with 19.",
+                "In human biology, 23 has a profound significance.",
+                "The \"23 enigma\" is a belief in the mystical significance of the number 23, with individuals and groups finding recurring instances of the number in everyday life."
+            ]
+        },
+        {
+            "number":"24",
+            "facts":[
+                "The number 24 is synonymous with the duration of a day.",
+                "In literature and film, the number 24 often symbolizes urgency and the ticking of time.",
+                "The Greek alphabet, both ancient and modern, includes 24 letters."
+            ]
+        },
+        {
+            "number":"25",
+            "facts":[
+                "Mathematically, 25 is intriguing as it's a square number (5x5).",
+                "In terms of percentages, 25 represents a quarter."
+            ]
+        },
+        {
+            "number":"26",
+            "facts":[
+                "The number 26 has linguistic importance as it represents the total number of letters in the English alphabet.",
+                "In long-distance running, the number 26 holds a significant place because the official length of a marathon is 26 miles.",
+                "Uniquely, 26 is the only number located between a square number (25, which is 5 squared) and a cube number (27, which is 3 cubed)."
+            ]
+        },
+        {
+            "number":"27",
+            "facts":[
+                "The number 27 is a perfect cube, as it equals 3x3x3.",
+                "In the Christian Bible, the 27th book of the New Testament is the Book of Revelation.",
+                "Astronomically, the Sun, around which our solar system revolves, rotates on its axis approximately once every 27 days."
+            ]
+        },
+        {
+            "number":"28",
+            "facts":[
+                "From a mathematical perspective, 28 is fascinating as it's a perfect number.",
+                "In the Gregorian calendar, February typically consists of 28 days.",
+                "In the field of science, the 28th element in the periodic table is Nickel."
+            ]
+        },
+        {
+            "number":"29",
+            "facts":[
+                "Number 29 is a member of the Lucas sequence, a series related to the Fibonacci sequence but starting with 2 and 1 instead of 0 and 1.",
+                "In leap years, February has 29 days instead of the usual 28.",
+                "From an astronomical perspective, Saturn, the second-largest planet in our solar system, takes approximately 29 and half Earth years to orbit the Sun."
+            ]
+        },
+        {
+            "number":"30",
+            "facts":[
+                "The number 30 is a highly composite number, meaning it has more divisors than any smaller number.",
+                "The Gregorian calendar, used by most societies today, typically features 30 days in several months.",
+                "In the world of geometry, the number 30 features prominently in the 30-60-90 right triangle."
+            ]
+        },
+        {
+            "number":"math",
+            "facts":[
+                "Did you know that the word \"mathematics\" comes from the Greek word \"máthēma\", which means \"study, knowledge, or learning\"?",
+                "Did you know that the most famous mathematical constant, pi (π), has been calculated to over 50 trillion digits beyond its decimal point as of 2021?",
+                "Did you know that zero (0) is thought to have been invented in India around the 5th century?",
+                "Did you know that the equals sign (=) was invented by Welsh mathematician Robert Recorde in 1557 because he was tired of writing \"is equal to\"?",
+                "Did you know that a prime number is only divisible by 1 and itself, and the first five prime numbers are 2, 3, 5, 7, and 11?",
+                "Did you know that the Fibonacci sequence, where each number is the sum of the two preceding ones, appears frequently in nature, art, and architecture?",
+                "Did you know that a \"googol\" is a 1 followed by 100 zeros and was coined by a nine-year-old boy?",
+                "Did you know that the Pythagorean theorem, a² + b² = c², was known and utilized by ancient civilizations long before Pythagoras was born?",
+                "Did you know that the symbol for infinity (∞), called a lemniscate, was introduced by mathematician John Wallis in 1655?",
+                "Did you know that there are different sizes of infinity in mathematics?"
+            ]
+        }
+    ]
+}

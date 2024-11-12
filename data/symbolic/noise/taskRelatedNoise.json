@@ -1,0 +1,113 @@
+{
+    "noise_info": [
+        {
+            "phrase": "position_0",
+            "facts": [
+                "When interpreting commands, it's essential to break them down into smaller, manageable steps to ensure accurate execution.",
+                "The order in which the steps are performed can significantly impact the final outcome of the command execution.",
+                "Breaking down complex commands into smaller, manageable steps is crucial for accurate interpretation and execution.",
+                "Prioritizing the order of steps based on the command structure helps ensure the correct sequence of actions.",
+                "Identifying the key components of the command, such as direction and repetition, helps in determining the appropriate action sequence.",
+                "The use of cardinal directions, such as right and left, is common in navigation and command execution tasks.",
+                "Parsing the command and identifying the relevant steps is crucial for creating an efficient and accurate action sequence."
+            ]
+        },
+        {
+            "phrase": "position_1",
+            "facts": [
+                "Translating the interpreted command into a specific action sequence is the next step in executing the command accurately.",
+                "Using standardized action name helps maintain consistency and clarity in the action sequence.",
+                "Repeating actions is necessary to achieve the desired orientation or position.",
+                "The action sequence should precisely reflect the intended meaning of the command to ensure successful execution.",
+                "Concatenating individual actions to form a complete action sequence is a fundamental aspect of command execution.",
+                "Ensuring that the action sequence accurately reflects the steps outlined in the command is essential for successful execution.",
+                "Double-checking the action sequence against the original command can help identify any errors or inconsistencies.",
+                "Confirming that the action sequence is complete and does not require any additional steps is crucial before proceeding with execution.",
+                "Verifying that the action sequence is in the correct order and follows the logic of the command is necessary for accurate execution.",
+                "Reviewing the action sequence to ensure that it is concise and does not contain any redundant or unnecessary actions can improve efficiency."
+            ]
+        },
+        {
+            "phrase": "position_2",
+            "facts": [
+                "Proceeding to the next step in the command is essential for complete and accurate execution.",
+                "Understanding the meaning of \"[action_sequence]\" requires interpreting the combination of turning and running actions.",
+                "Identifying the number of repetitions needed to complete a loop is crucial for creating an efficient action sequence.",
+                "Visualizing the desired path or trajectory can help in understanding the command and creating an accurate action sequence.",
+                "Breaking down the step into smaller, repeatable action sequences simplifies the execution process."
+            ]
+        },
+        {
+            "phrase": "direction",
+            "facts": [
+                "Consistently mapping directional terms to specific actions is essential for maintaining coherence in command execution.",
+                "Establishing a clear correspondence between command components and actions is crucial for accurate interpretation and execution.",
+                "Using standardized action names, such as I_TURN_RIGHT, helps reduce ambiguity and improve clarity in the action sequence.",
+                "Ensuring that the mapping between directions and actions remains consistent throughout the command execution process is essential for success.",
+                "Properly associating directional terms with their corresponding actions is a fundamental aspect of creating an accurate action sequence.",
+                "Parsing the command to identify and extract directional information is a critical first step in creating an accurate action sequence.",
+                "Validating the extracted directional information against the context of the command helps ensure consistency and accuracy.",
+                "Handling variations in directional terms requires a flexible and adaptive approach to command interpretation.",
+                "Anticipating potential ambiguities or uncertainties in directional information is essential for developing robust command execution strategies.",
+                "Incorporating contextual cues and domain knowledge can help resolve ambiguities and improve the accuracy of directional interpretation."
+            ]
+        },
+        {
+            "phrase": "action",
+            "facts": [
+                "Consistently mapping action terms to specific commands is essential for maintaining coherence in command execution.",
+                "Establishing a clear correspondence between command components and actions is crucial for accurate interpretation and execution.",
+                "Using standardized action names, such as I_[action], helps reduce ambiguity and improve clarity in the action sequence.",
+                "Ensuring that the mapping between actions and their corresponding commands remains consistent throughout the execution process is essential for success.",
+                "Properly associating action terms with their corresponding commands is a fundamental aspect of creating an accurate action sequence.",
+                "Parsing the command to identify and extract action-related information is a critical first step in creating an accurate action sequence.",
+                "Validating the extracted action information against the context of the command helps ensure consistency and accuracy.",
+                "Handling variations in action terms, requires a flexible and adaptive approach to command interpretation.",
+                "Anticipating potential ambiguities or uncertainties in action-related information is essential for developing robust command execution strategies.",
+                "Incorporating contextual cues and domain knowledge can help resolve ambiguities and improve the accuracy of action interpretation."
+            ]
+        },
+        {
+            "phrase": "repetitions",
+            "facts": [
+                "Identifying the number of repetitions required for a specific action sequence is essential for accurate command execution.",
+                "Repeating entire action sequences can be more efficient than repeating individual actions when the desired outcome involves multiple loops or iterations.",
+                "Ensuring that the repeated action sequence maintains its integrity and coherence is crucial for achieving the desired outcome.",
+                "Properly interpreting the meaning of \"[repetitions]\" in the context of the command is necessary for determining the appropriate number of repetitions.",
+                "Creating an action sequence that accurately reflects the required number of repetitions is a key step in executing the command correctly.",
+                "The final action sequence should accurately reflect the complete command, including all repetitions and loops.",
+                "Optimizing the repetition of action sequences can help reduce execution time and improve overall efficiency in task completion."
+            ]
+        },
+        {
+            "phrase": "opposite",
+            "facts": [
+                "Understanding the meaning of \"opposite\" in the context of directions is crucial for accurate command execution.",
+                "Interpreting the implied angle of rotation associated with the term \"opposite\" is necessary for determining the appropriate action sequence.",
+                "Recognizing that \"opposite\" requires a specific number of turns is essential for creating an accurate action sequence.",
+                "Translating the concept of \"opposite\" into a series of specific actions is a key step in executing the command correctly.",
+                "Identifying the relationship between the term \"opposite\" and the number of required turns is crucial for successful command execution.",
+                "Recognizing the relationship between the term \"opposite\" and the concept of reversing or undoing an action is essential for accurate command execution.",
+                "Handling variations in the usage of \"opposite\" requires a flexible and adaptive approach to command interpretation.",
+                "Validating the interpretation of \"opposite\" against the context of the command helps ensure consistency and accuracy.",
+                "Anticipating potential ambiguities or uncertainties in the interpretation of \"opposite\" is essential for developing robust command execution strategies.",
+                "Incorporating contextual cues and domain knowledge can help resolve ambiguities and improve the accuracy of interpreting \"opposite\" in the command."
+            ]
+        },
+        {
+            "phrase": "around",
+            "facts": [
+                "Understanding the implications of the term \"around\" in the context of navigation and spatial reasoning is crucial for creating an accurate action sequence.",
+                "Interpreting \"around\" as a complete 360-degree loop is necessary for determining the appropriate number of repetitions in the action sequence.",
+                "Recognizing that \"around\" implies a specific sequence of actions (turning and running) is essential for creating a coherent and accurate action sequence.",
+                "Translating the concept of \"around\" into a series of specific actions is a key step in executing the command correctly.",
+                "Identifying the relationship between the term \"around\" and the number of repetitions required to complete a loop is crucial for successful command execution.",
+                "Recognizing the relationship between the term \"around\" and the concept of looping or repeating a sequence of actions is essential for accurate command execution.",
+                "Handling variations in the usage of \"around\" requires a flexible and adaptive approach to command interpretation.",
+                "Validating the interpretation of \"around\" against the context of the command helps ensure consistency and accuracy.",
+                "Anticipating potential ambiguities or uncertainties in the interpretation of \"around\" is essential for developing robust command execution strategies.",
+                "Incorporating contextual cues and domain knowledge can help resolve ambiguities and improve the accuracy of interpreting \"around\" in the command."
+            ]
+        }
+    ]
+}

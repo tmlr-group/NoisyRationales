@@ -1,0 +1,30 @@
+[
+    {
+        "IN": "jump",
+        "OUT": "I_JUMP"
+    },
+    {
+        "IN": "look",
+        "OUT": "I_LOOK"
+    },
+    {
+        "IN": "jump left",
+        "OUT": "I_TURN_LEFT I_JUMP"
+    },
+    {
+        "IN": "jump around right",
+        "OUT": "I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP I_TURN_RIGHT I_JUMP"
+    },
+    {
+        "IN": "turn left twice",
+        "OUT": "I_TURN_LEFT I_TURN_RIGHT"
+    },
+    {
+        "IN": "jump thrice",
+        "OUT": "I_JUMP I_JUMP I_JUMP"
+    },
+    {
+        "IN": "jump opposite left and walk thrice",
+        "OUT": "I_TURN_LEFT I_TURN_LEFT I_JUMP I_WALK I_WALK I_WALK"
+    }
+]

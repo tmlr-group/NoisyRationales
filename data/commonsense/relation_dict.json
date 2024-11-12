@@ -1,0 +1,436 @@
+[
+    {
+        "key": [
+            "daughter",
+            "brother"
+        ],
+        "value": "son"
+    },
+    {
+        "key": [
+            "daughter",
+            "sister"
+        ],
+        "value": "daughter"
+    },
+    {
+        "key": [
+            "sister",
+            "daughter"
+        ],
+        "value": "niece"
+    },
+    {
+        "key": [
+            "sister",
+            "son"
+        ],
+        "value": "nephew"
+    },
+    {
+        "key": [
+            "daughter",
+            "grandmother"
+        ],
+        "value": "mother"
+    },
+    {
+        "key": [
+            "daughter",
+            "daughter"
+        ],
+        "value": "granddaughter"
+    },
+    {
+        "key": [
+            "sister",
+            "mother"
+        ],
+        "value": "mother"
+    },
+    {
+        "key": [
+            "brother",
+            "father"
+        ],
+        "value": "father"
+    },
+    {
+        "key": [
+            "son",
+            "wife"
+        ],
+        "value": "daughter-in-law"
+    },
+    {
+        "key": [
+            "wife",
+            "father"
+        ],
+        "value": "father-in-law"
+    },
+    {
+        "key": [
+            "son",
+            "uncle"
+        ],
+        "value": "brother"
+    },
+    {
+        "key": [
+            "mother",
+            "mother"
+        ],
+        "value": "grandmother"
+    },
+    {
+        "key": [
+            "daughter",
+            "husband"
+        ],
+        "value": "son-in-law"
+    },
+    {
+        "key": [
+            "daughter",
+            "uncle"
+        ],
+        "value": "brother"
+    },
+    {
+        "key": [
+            "mother",
+            "father"
+        ],
+        "value": "grandfather"
+    },
+    {
+        "key": [
+            "son",
+            "grandmother"
+        ],
+        "value": "mother"
+    },
+    {
+        "key": [
+            "husband",
+            "mother"
+        ],
+        "value": "mother-in-law"
+    },
+    {
+        "key": [
+            "sister",
+            "father"
+        ],
+        "value": "father"
+    },
+    {
+        "key": [
+            "wife",
+            "mother"
+        ],
+        "value": "mother-in-law"
+    },
+    {
+        "key": [
+            "daughter",
+            "aunt"
+        ],
+        "value": "sister"
+    },
+    {
+        "key": [
+            "mother",
+            "sister"
+        ],
+        "value": "aunt"
+    },
+    {
+        "key": [
+            "son",
+            "aunt"
+        ],
+        "value": "sister"
+    },
+    {
+        "key": [
+            "brother",
+            "mother"
+        ],
+        "value": "mother"
+    },
+    {
+        "key": [
+            "daughter",
+            "son"
+        ],
+        "value": "grandson"
+    },
+    {
+        "key": [
+            "daughter",
+            "grandfather"
+        ],
+        "value": "father"
+    },
+    {
+        "key": [
+            "mother",
+            "son"
+        ],
+        "value": "brother"
+    },
+    {
+        "key": [
+            "husband",
+            "father"
+        ],
+        "value": "father-in-law"
+    },
+    {
+        "key": [
+            "mother",
+            "brother"
+        ],
+        "value": "uncle"
+    },
+    {
+        "key": [
+            "son",
+            "brother"
+        ],
+        "value": "son"
+    },
+    {
+        "key": [
+            "son",
+            "sister"
+        ],
+        "value": "daughter"
+    },
+    {
+        "key": [
+            "mother",
+            "daughter"
+        ],
+        "value": "sister"
+    },
+    {
+        "key": [
+            "son",
+            "grandfather"
+        ],
+        "value": "father"
+    },
+    {
+        "key": [
+            "brother",
+            "son"
+        ],
+        "value": "nephew"
+    },
+    {
+        "key": [
+            "father",
+            "daughter"
+        ],
+        "value": "sister"
+    },
+    {
+        "key": [
+            "brother",
+            "daughter"
+        ],
+        "value": "niece"
+    },
+    {
+        "key": [
+            "brother",
+            "grandfather"
+        ],
+        "value": "grandfather"
+    },
+    {
+        "key": [
+            "son",
+            "daughter"
+        ],
+        "value": "granddaughter"
+    },
+    {
+        "key": [
+            "father",
+            "mother"
+        ],
+        "value": "grandmother"
+    },
+    {
+        "key": [
+            "wife",
+            "grandson"
+        ],
+        "value": "grandson"
+    },
+    {
+        "key": [
+            "husband",
+            "grandson"
+        ],
+        "value": "grandson"
+    },
+    {
+        "key": [
+            "father",
+            "father"
+        ],
+        "value": "grandfather"
+    },
+    {
+        "key": [
+            "brother",
+            "grandmother"
+        ],
+        "value": "grandmother"
+    },
+    {
+        "key": [
+            "son",
+            "son"
+        ],
+        "value": "grandson"
+    },
+    {
+        "key": [
+            "father",
+            "sister"
+        ],
+        "value": "aunt"
+    },
+    {
+        "key": [
+            "father",
+            "son"
+        ],
+        "value": "brother"
+    },
+    {
+        "key": [
+            "sister",
+            "grandfather"
+        ],
+        "value": "grandfather"
+    },
+    {
+        "key": [
+            "wife",
+            "granddaughter"
+        ],
+        "value": "granddaughter"
+    },
+    {
+        "key": [
+            "father",
+            "brother"
+        ],
+        "value": "uncle"
+    },
+    {
+        "key": [
+            "granddaughter",
+            "sister"
+        ],
+        "value": "granddaughter"
+    },
+    {
+        "key": [
+            "sister",
+            "grandmother"
+        ],
+        "value": "grandmother"
+    },
+    {
+        "key": [
+            "grandson",
+            "brother"
+        ],
+        "value": "grandson"
+    },
+    {
+        "key": [
+            "sister",
+            "brother"
+        ],
+        "value": "brother"
+    },
+    {
+        "key": [
+            "brother",
+            "sister"
+        ],
+        "value": "sister"
+    },
+    {
+        "key": [
+            "sister",
+            "sister"
+        ],
+        "value": "sister"
+    },
+    {
+        "key": [
+            "brother",
+            "brother"
+        ],
+        "value": "brother"
+    },
+    {
+        "key": [
+            "husband",
+            "granddaughter"
+        ],
+        "value": "granddaughter"
+    },
+    {
+        "key": [
+            "husband",
+            "daughter"
+        ],
+        "value": "daughter"
+    },
+    {
+        "key": [
+            "husband",
+            "son"
+        ],
+        "value": "son"
+    },
+    {
+        "key": [
+            "wife",
+            "son"
+        ],
+        "value": "son"
+    },
+    {
+        "key": [
+            "wife",
+            "daughter"
+        ],
+        "value": "daughter"
+    },
+    {
+        "key": [
+            "grandson",
+            "sister"
+        ],
+        "value": "granddaughter"
+    },
+    {
+        "key": [
+            "granddaughter",
+            "brother"
+        ],
+        "value": "grandson"
+    }
+]

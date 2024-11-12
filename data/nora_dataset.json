@@ -1,0 +1,22 @@
+{
+    "@type": "Dataset",
+    "name": "NoRa: Noisy Rationales Dataset",
+    "description": "A comprehensive testbed to evaluate LLMs' robustness of reasoning with noisy rationales across various reasoning domains.",
+    "url": "Anonymous",
+    "version": "1.0.0",
+    "author": [
+      {
+        "@type": "Person",
+        "name": "Anonymous Authors"
+      }
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "datePublished": "2024",
+    "distribution": [
+      {
+        "@type": "DataDownload",
+        "contentUrl": "Anonymous URL",
+        "encodingFormat": "application/zip"
+      }
+    ]
+  }

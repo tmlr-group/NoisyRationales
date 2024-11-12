@@ -1,0 +1,15 @@
+*key.yml
+**/__pycache__/
+data/**/unzip_data/*
+data/**/processed/*
+test.ipynb
+test.json
+.vscode/
+.idea/
+test.py
+/pre_result/
+/result/
+*apikey_manager.json
+.env
+**/.DS_Store
+.DS_Store

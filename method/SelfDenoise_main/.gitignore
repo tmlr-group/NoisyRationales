@@ -1,0 +1,8 @@
+**/__pycache__/
+*.pyc
+alpaca
+cache_path
+output*
+result_log
+save_models
+openmpi-4.1.1.tar.gz

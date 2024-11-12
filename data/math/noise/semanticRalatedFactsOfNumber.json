@@ -1,0 +1,265 @@
+{
+    "noise_info":
+    [
+        {
+            "number":"position_0",
+            "facts":[
+                "In base-2 (binary), the digits are \"01\".",
+                "The number of digits in a base is always equal to the base value.",
+                "The choice of symbols for digits in a base is arbitrary but usually follows a logical sequence.",
+                "The Ancient Egyptians used a base-10 number system, similar to the one we use today.",
+                "In base-16 (hexadecimal), the digits include \"0123456789ABCDEF\"."
+            ]
+        },
+        {
+            "number":"position_1",
+            "facts":[
+                "The maximum single-digit value in base-8 (octal) is 7.",
+                "In base-5, the maximum single-digit value is 4.",
+                "The maximum single-digit value in any base is always one less than the base itself.",
+                "In base-12, the maximum single-digit value is 11, often represented as \"B\".",
+                "The maximum single-digit value in base-16 (hexadecimal) is 15, represented as \"F\"."
+            ]
+        },
+        {
+            "number":"position_2",
+            "facts":[
+                "The modulo operation (mod) finds the remainder after division of one number by another.",
+                "The modulo operation is often used in programming to perform cyclic operations or to check divisibility.",
+                "The result of the modulo operation is always less than the divisor.",
+                "The modulo operation is distributive over addition and subtraction, but not over multiplication.",
+                "The modulo operation has various applications in cryptography, hash functions, and random number generation."
+            ]
+        },
+        {
+            "number":"position_3",
+            "facts":[
+                "The modulo operation is used to find the remainder when [mod1] is divided by 9.",
+                "The modulo operation is essential for determining the base-9 digit and carry values in each step of the addition process.",
+                "The result of the modulo operation ([mod1] mod 9) is [mod_result], which becomes the digit in the current place value.",
+                "The quotient of [mod1] divided by 9 ([mod1] ÷ 9 = [carry] remainder [mod_result]]) becomes the carry value for the next place value.",
+                "The modulo operation ensures that the base-9 digits remain within the valid range (0-8) during the addition process."
+            ]
+        },
+        {
+            "number":"position_4",
+            "facts":[
+                "The leading digit in a number is the leftmost non-zero digit.",
+                "The leading digit can provide information about the magnitude of a number.",
+                "In base-9, the leading digit 1 indicates that the number is greater than or equal to 1 * 9^2 = 81 but less than 2 * 9^2 = 162.",
+                "The place value of the leading digit determines the highest power of the base in the number.",
+                "The presence of a leading digit in the final answer confirms that the base-9 addition was performed correctly, and the result is a three-digit number."
+            ]
+        },
+        {
+            "number":"0",
+            "facts":[
+                "In base-9, 0 is the smallest digit and represents the absence of any value in a place.",
+                "The digit 0 is essential in base-9 for representing numbers that are multiples of 9.",
+                "In base-9 addition, when the sum of two digits is 9, the result is written as 0 with a carry of 1 to the next place.",
+                "The number 0 plays a crucial role in determining the place values of other digits in base-9.",
+                "In base-9 subtraction, if the minuend digit is 0 and a borrow is required, it becomes 8 after borrowing from the next place."
+            ]
+        }, 
+        {
+            "number":"1",
+            "facts":[
+                "In base-9, the digit 1 represents one unit of value in a place.",
+                "When adding two single-digit numbers in base-9, if the result is less than 9, the digit 1 may appear in the ones place.",
+                "The digit 1 is often used as a carry value when adding numbers in base-9.",
+                "In base-9 multiplication, the digit 1 acts as an identity element, leaving any number unchanged when multiplied by it.",
+                "The number 1 is the smallest positive digit in base-9 and is used to represent the value nine in decimal."
+            ]
+        },
+        {
+            "number":"2",
+            "facts":[
+                "In base-9, the digit 2 represents two units of value in a place.",
+                "When adding two single-digit numbers in base-9, the digit 2 may appear in the ones place if the sum is less than 9.",
+                "The digit 2 can be used as a carry value when adding larger numbers in base-9.",
+                "In base-9 multiplication, the product of 2 and a single-digit number will always be a single-digit number or a multiple of 9.",
+                "The number 2 in base-9 is equivalent to the decimal value eighteen."
+            ]
+        },
+        {
+            "number":"3",
+            "facts":[
+                "In base-9, the digit 3 represents three units of value in a place.",
+                "When adding two single-digit numbers in base-9, the digit 3 may appear in the ones place if the sum is less than 9.",
+                "The digit 3 can be used as a carry value when adding larger numbers in base-9.",
+                "In base-9 multiplication, the product of 3 and a single-digit number will always be a single-digit number or a multiple of 9.",
+                "The number 3 in base-9 is equivalent to the decimal value twenty-seven."
+            ]
+        },
+        {
+            "number":"4",
+            "facts":[
+                "In base-9, the digit 4 represents four units of value in a place.",
+                "When adding two single-digit numbers in base-9, the digit 4 may appear in the ones place if the sum is less than 9.",
+                "The digit 4 can be used as a carry value when adding larger numbers in base-9.",
+                "In base-9 multiplication, the product of 4 and a single-digit number will always be a single-digit number or a multiple of 9.",
+                "The number 4 in base-9 is equivalent to the decimal value thirty-six."
+            ]
+        },
+        {
+            "number":"5",
+            "facts":[
+                "In base-9, the digit 5 represents five units of value in a place.",
+                "When adding two single-digit numbers in base-9, the digit 5 may appear in the ones place if the sum is less than 9.",
+                "The digit 5 can be used as a carry value when adding larger numbers in base-9.",
+                "In base-9 multiplication, the product of 5 and a single-digit number will always be a single-digit number or a multiple of 9.",
+                "The number 5 in base-9 is equivalent to the decimal value forty-five."
+            ]
+        },
+        {
+            "number": "6",
+            "facts": [
+                "In base-9, the digit 6 represents six units of value in a place.",
+                "When adding two single-digit numbers in base-9, the digit 6 may appear in the ones place if the sum is less than 9.",
+                "The digit 6 can be used as a carry value when adding larger numbers in base-9.",
+                "In base-9 multiplication, the product of 6 and a single-digit number will always be a single-digit number or a multiple of 9.",
+                "The number 6 in base-9 is equivalent to the decimal value fifty-four."
+            ]
+        },
+        {
+            "number": "7",
+            "facts": [
+                "In base-9, the digit 7 represents seven units of value in a place.",
+                "When adding two single-digit numbers in base-9, the digit 7 may appear in the ones place if the sum is less than 9.",
+                "The digit 7 can be used as a carry value when adding larger numbers in base-9.",
+                "In base-9 multiplication, the product of 7 and a single-digit number will always be a single-digit number or a multiple of 9.",
+                "The number 7 in base-9 is equivalent to the decimal value sixty-three."
+            ]
+        },
+        {
+            "number": "8",
+            "facts": [
+                "In base-9, the digit 8 represents eight units of value in a place.",
+                "When adding two single-digit numbers in base-9, the digit 8 may appear in the ones place if the sum is less than 9.",
+                "The digit 8 is the largest single-digit number in base-9.",
+                "In base-9 multiplication, the product of 8 and a single-digit number will always be a single-digit number or a multiple of 9.",
+                "The number 8 in base-9 is equivalent to the decimal value seventy-two."
+            ]
+        },
+        {
+            "number": "9",
+            "facts": [
+                "In base-9, the number 9 is represented as '10' since it is the base value itself.",
+                "When adding two numbers in base-9, if the sum is 9 or greater, the result will have at least two digits.",
+                "In base-9 multiplication, when a number is multiplied by 9, the product will always have more digits than the original number.",
+                "The number 9 in base-9 is equivalent to the decimal value eighty-one, which is the square of the base value.",
+                "In base-9 division, when a number is divided by 9, the quotient will always be smaller than the original number, and the remainder will be a single digit."
+            ]
+        },
+        {
+            "number": "10",
+            "facts": [
+                "In base-9, the number 10 is represented as '11' since it is one more than the base value.",
+                "When adding a single-digit number to 10 in base-9, the result will always have two digits.",
+                "In base-9 multiplication, when a single-digit number is multiplied by 10, the product will have at least two digits.",
+                "The number 10 in base-9 is equivalent to the decimal value ninety, which is the product of the base value and ten.",
+                "In base-9 subtraction, when subtracting a single-digit number from 10, the result will always have two digits, with the ones place being the complement of the subtrahend digit."
+            ]
+        },
+        {
+            "number": "11",
+            "facts": [
+                "In base-9, the number 11 is represented as '12' since it is two more than the base value.",
+                "When adding a single-digit number to 11 in base-9, the result will always have two digits, with a possible carry to the third place.",
+                "In base-9 multiplication, when a single-digit number is multiplied by 11, the product will have at least two digits.",
+                "The number 11 in base-9 is equivalent to the decimal value ninety-nine, which is one less than the square of the base value.",
+                "In base-9 subtraction, when subtracting a single-digit number from 11, the result will always have two digits, with the ones place being the complement of the subtrahend digit plus one."
+            ]
+        },
+        {
+            "number": "12",
+            "facts": [
+                "In base-9, the number 12 is represented as '13' since it is three more than the base value.",
+                "When adding a single-digit number to 12 in base-9, the result will always have two digits, with a possible carry to the third place.",
+                "In base-9 multiplication, when a single-digit number is multiplied by 12, the product will have at least two digits.",
+                "The number 12 in base-9 is equivalent to the decimal value one hundred and eight, which is the product of the base value and twelve.",
+                "In base-9 subtraction, when subtracting a single-digit number from 12, the result will always have two digits, with the ones place being the complement of the subtrahend digit plus two."
+            ]
+        },
+        {
+            "number": "13",
+            "facts": [
+                "In base-9, the number 13 is represented as '14' since it is four more than the base value.",
+                "When adding a single-digit number to 13 in base-9, the result will always have two digits, with a possible carry to the third place.",
+                "In base-9 multiplication, when a single-digit number is multiplied by 13, the product will have at least two digits.",
+                "The number 13 in base-9 is equivalent to the decimal value one hundred and seventeen, which is thirteen more than the square of the base value.",
+                "In base-9 subtraction, when subtracting a single-digit number from 13, the result will always have two digits, with the ones place being the complement of the subtrahend digit plus three."
+            ]
+        },
+        {
+            "number": "14",
+            "facts": [
+                "In base-9, the number 14 is represented as '15' since it is five more than the base value.",
+                "When adding a single-digit number to 14 in base-9, the result will always have two digits, with a possible carry to the third place.",
+                "In base-9 multiplication, when a single-digit number is multiplied by 14, the product will have at least two digits.",
+                "The number 14 in base-9 is equivalent to the decimal value one hundred and twenty-six, which is the product of the base value and fourteen.",
+                "In base-9 subtraction, when subtracting a single-digit number from 14, the result will always have two digits, with the ones place being the complement of the subtrahend digit plus four."
+            ]
+        },
+        {
+            "number": "15",
+            "facts": [
+                "In base-9, the number 15 is represented as '16' since it is six more than the base value.",
+                "When adding a single-digit number to 15 in base-9, the result will always have two digits, with a possible carry to the third place.",
+                "In base-9 multiplication, when a single-digit number is multiplied by 15, the product will have at least two digits.",
+                "The number 15 in base-9 is equivalent to the decimal value one hundred and thirty-five, which is fifteen more than the square of the base value.",
+                "In base-9 subtraction, when subtracting a single-digit number from 15, the result will always have two digits, with the ones place being the complement of the subtrahend digit plus five."
+            ]
+        },
+        {
+            "number": "16",
+            "facts": [
+                "In base-9, the number 16 is represented as '17' since it is seven more than the base value.",
+                "When adding a single-digit number to 16 in base-9, the result will always have two digits, with a possible carry to the third place.",
+                "In base-9 multiplication, when a single-digit number is multiplied by 16, the product will have at least two digits.",
+                "The number 16 in base-9 is equivalent to the decimal value one hundred and forty-four, which is the square of the base value plus sixteen.",
+                "In base-9 subtraction, when subtracting a single-digit number from 16, the result will always have two digits, with the ones place being the complement of the subtrahend digit plus six."
+            ]
+        },
+        {
+            "number": "17",
+            "facts": [
+                "In base-9, the number 17 is represented as '18' since it is eight more than the base value.",
+                "When adding a single-digit number to 17 in base-9, the result will always have two digits, with a possible carry to the third place.",
+                "In base-9 multiplication, when a single-digit number is multiplied by 17, the product will have at least two digits.",
+                "The number 17 in base-9 is equivalent to the decimal value one hundred and fifty-three, which is seventeen more than the square of the base value.",
+                "In base-9 subtraction, when subtracting a single-digit number from 17, the result will always have two digits, with the ones place being the complement of the subtrahend digit plus seven."
+            ]
+        },
+        {
+            "number": "18",
+            "facts": [
+                "In base-9, the number 18 is represented as '20' since it is one less than twice the base value.",
+                "When adding a single-digit number to 18 in base-9, the result will always have two digits, with a possible carry to the third place.",
+                "In base-9 multiplication, when a single-digit number is multiplied by 18, the product will have at least two digits.",
+                "The number 18 in base-9 is equivalent to the decimal value one hundred and sixty-two, which is the product of the base value and eighteen.",
+                "In base-9 subtraction, when subtracting a single-digit number from 18, the result will always have two digits, with the ones place being the complement of the subtrahend digit plus eight."
+            ]
+        },
+        {
+            "number": "19",
+            "facts": [
+                "In base-9, the number 19 is represented as '21' since it is equal to twice the base value plus one.",
+                "When adding a single-digit number to 19 in base-9, the result will always have two digits, with a possible carry to the third place.",
+                "In base-9 multiplication, when a single-digit number is multiplied by 19, the product will have at least two digits.",
+                "The number 19 in base-9 is equivalent to the decimal value one hundred and seventy-one, which is nineteen more than the square of the base value.",
+                "In base-9 subtraction, when subtracting a single-digit number from 19, the result will always have two digits, with the ones place being the complement of the subtrahend digit, and the tens place being one less than the base value."
+            ]
+        },
+        {
+            "number": "20",
+            "facts": [
+                "In base-9, the number 20 is represented as '22' since it is two more than twice the base value.",
+                "When adding a single-digit number to 20 in base-9, the result will always have two digits, with a possible carry to the third place.",
+                "In base-9 multiplication, when a single-digit number is multiplied by 20, the product will have at least two digits.",
+                "The number 20 in base-9 is equivalent to the decimal value one hundred and eighty, which is the product of the base value and twenty.",
+                "In base-9 subtraction, when subtracting a single-digit number from 20, the result will always have two digits."
+            ]
+        }
+    ]
+}

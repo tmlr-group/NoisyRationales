@@ -1,0 +1,84 @@
+{
+    "noise_info": [
+        {
+            "phrase": "position_0",
+            "facts": [
+                "When approaching a complex navigation task, it is often helpful to break it down into smaller, more manageable steps that can be addressed sequentially.",
+                "Prioritizing the essential or critical steps in a navigation task ensures that the agent focuses on the most important aspects first, reducing the risk of errors or inefficiencies.",
+                "Clearly identifying and labeling each step in a navigation task, such as \"Step1\", helps to maintain a logical structure and facilitates communication between different stakeholders involved in the project.",
+                "By considering each step separately, the agent can allocate its resources and attention more effectively, leading to improved performance and decision-making in navigation tasks.",
+                "Addressing the steps in a navigation task sequentially allows the agent to build upon the outcomes of previous steps, creating a coherent and context-aware behavior pattern."
+            ]
+        },
+        {
+            "phrase": "position_1",
+            "facts": [
+                "After determining the appropriate step in the navigation task, the next logical progression is to translate the high-level command into a concrete action sequence that the agent can execute.",
+                "The \"Therefore\" statement serves as a bridge between the high-level planning phase and the low-level execution phase, highlighting the connection between the two and ensuring a smooth transition.",
+                "By explicitly stating the action sequence, the navigation system communicates the expected behavior to the agent in a clear and unambiguous manner, reducing the potential for misinterpretation or errors.",
+                "The action sequence represents the culmination of the decision-making process, encapsulating the agent's understanding of the task and its intended course of action.",
+                "Presenting the action sequence in a standardized format promotes consistency and interoperability across different components of the navigation system."
+            ]
+        },
+        {
+            "phrase": "position_2",
+            "facts": [
+                "After successfully completing the first step in the navigation task, the agent can move on to the next step, which often involves more complex or composite behaviors.",
+                "Clearly identifying and labeling the second step, such as \"Step2\", maintains the logical structure of the navigation task and helps the agent keep track of its progress.",
+                "By considering the second step separately, the agent can focus its resources and attention on the specific requirements and challenges associated with this phase of the navigation task.",
+                "The second step often builds upon the outcomes of the first step, requiring the agent to integrate new information or adapt its behavior based on the current context.",
+                "As the navigation task progresses, the complexity of the steps may increase, demanding more advanced planning, coordination, and execution capabilities from the agent."
+            ]
+        },
+        {
+            "phrase": "direction",
+            "facts": [
+                "In many navigation systems, 'left' is often counterpart to 'right'.",
+                "The use of 'I' in the command name, such as I_TURN_RIGHT or I_TURN_LEFT, is a common convention to indicate that the command is an instruction for the agent to execute.",
+                "The command I_TURN_RIGHT can be used in various navigation scenarios, such as maze-solving, path-planning, or obstacle avoidance.",
+                "In some cases, the turning angle associated with I_TURN_RIGHT may be customized to adapt to different agent configurations or environmental constraints.",
+                "The I_TURN_RIGHT command is often used in conjunction with other navigation commands, such as I_MOVE_FORWARD or I_TURN_LEFT, to create complex navigation behaviors."
+            ]
+        },
+        {
+            "phrase": "action",
+            "facts": [
+                "In some navigation systems, the command for moving forward may be represented as I_MOVE_FORWARD or I_WALK, depending on the desired speed or gait of the agent.",
+                "The I_RUN command is often used when the agent needs to cover a distance quickly or urgently, such as in time-sensitive navigation tasks or emergency response scenarios.",
+                "The speed or distance associated with the I_RUN command may be customized to adapt to different agent capabilities or environmental factors, such as terrain type or energy constraints.",
+                "In certain scenarios, the I_RUN command may be combined with other navigation commands, such as I_JUMP or I_CROUCH, to overcome obstacles or navigate through complex environments.",
+                "The use of 'run' in navigation commands is an intuitive way to convey the idea of rapid, continuous motion to the agent, making it easier for humans to understand and interact with the navigation system."
+            ]
+        },
+        {
+            "phrase": "repetitions",
+            "facts": [
+                "The concept of repeating a sequence of actions is fundamental in many navigation tasks, such as covering a large area, following a periodic path, or performing a systematic search.",
+                "In some navigation systems, the number of repetitions may be specified using a loop counter or a special syntax, such as \"repeat N times\" or \"for i in range(N)\", to improve clarity and modularity.",
+                "The ability to repeat action sequences is crucial for agents operating in large-scale or complex environments, as it allows them to break down the navigation task into manageable, reusable components.",
+                "The number of repetitions required may vary depending on the specific navigation task, the size of the environment, or the desired level of coverage or redundancy.",
+                "In certain scenarios, the agent may need to dynamically adjust the number of repetitions based on real-time feedback or changing environmental conditions, such as detecting new obstacles or receiving updated mission objectives."
+            ]
+        },
+        {
+            "phrase": "opposite",
+            "facts": [
+                "The concept of 'opposite' is crucial in navigation tasks that involve backtracking or retracing a path, as it allows the agent to undo its previous actions.",
+                "In some navigation systems, the command for turning 180 degrees may be explicitly defined as I_TURN_AROUND or I_TURN_BACK to improve clarity and readability.",
+                "The ability to perform 180-degree turns is essential for agents navigating in confined spaces or dead-ends, as it allows them to change direction and explore alternative paths.",
+                "In certain scenarios, the agent may need to perform a 180-degree turn by combining other turning commands, such as executing action twice in succession.",
+                "The interpretation of 'opposite' may vary depending on the frame of reference used in the navigation task, such as egocentric (relative to the agent) or allocentric (relative to the environment)."
+            ]
+        },
+        {
+            "phrase": "around",
+            "facts": [
+                "The concept of 'looping' or 'circling' is commonly used in navigation tasks that involve patrolling, monitoring, or covering a specific area.",
+                "In some navigation systems, the command for executing a 360-degree loop may be explicitly defined as I_LOOP or I_CIRCLE to improve clarity and readability.",
+                "The ability to perform 360-degree loops is crucial for agents tasked with exploring and mapping unknown environments, as it allows them to systematically cover the area.",
+                "The number of repetitions required to complete a 360-degree loop may vary depending on the turning angle associated with each action command.",
+                "In certain scenarios, the agent may need to adjust the size or shape of the looping path to avoid obstacles or adapt to different terrain conditions."
+            ]
+        }
+    ]
+}
