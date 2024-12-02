@@ -120,7 +120,7 @@ class my_mixtral:
         response_content = []
         if retval[0]:
             for response in responses:
-                response_content.append({"role":"assistent", "content": response})
+                response_content.append({"role":"assistant", "content": response})
             messages.append(response_content)  # the gemini format is "model" and "parts". This aims to use unique format in our program
         case["messages"] = messages
         return retval, messages
@@ -135,7 +135,7 @@ class my_mixtral:
                 if retval[0]:
                     response_content = []
                     for response in responses:
-                        response_content.append({"role":"assistent", "content": response})
+                        response_content.append({"role":"assistant", "content": response})
                     single_query.append(response_content)  # the gemini format is "model" and "parts". This aims to use unique format in our program
                     return
             if retval[0]:

@@ -34,11 +34,11 @@ class chatgpt_denoiser:
         return result
     
     def get_batch_response_by_model(self, system_prompt, sentences, model, n_reasoning):
+        case_batch = []
         while True:
             try:
-                
                 for sentence in sentences:
-                    case_batch = []
+                    
                     case = dict()
                     if system_prompt is not None:
                         case["system-prompt"] = system_prompt

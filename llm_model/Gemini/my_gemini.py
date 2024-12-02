@@ -69,7 +69,7 @@ class my_gemini:
         response_content = []
         if retval[0]:
             for response in responses:
-                response_content.append({"role":"assistent", "content": response})
+                response_content.append({"role":"assistant", "content": response})
             messages = [{"role":"user", "content":prompt}, response_content]  # the gemini format is "model" and "parts". This aims to use unique format in our program
             case["messages"] = messages
         else:
@@ -96,7 +96,7 @@ class my_gemini:
                 if retval[0]:
                     response_content = []
                     for response in responses:
-                        response_content.append({"role":"assistent", "content": response})
+                        response_content.append({"role":"assistant", "content": response})
                     messages.append(response_content)
             if retval[0]:
                 return

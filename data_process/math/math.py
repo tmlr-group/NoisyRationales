@@ -38,7 +38,7 @@ class math(data_processor):
 
     def get_label(self, raw_data):
         expr = raw_data.split("\t")[0]
-        self._get_label(expr)
+        return self._get_label(expr)
     
     def get_correct_answer(self, raw_data, generate_info = None):
         expr = raw_data.split("\t")[0]
@@ -133,7 +133,7 @@ class math(data_processor):
         assert self._get_label(expr) == tens_sum_w_carry + ones_sum[-1:]
         tens_carry_over = len(tens_sum_w_carry) > 1
         tens_carry_digit = 1 if tens_carry_over else 0
-        explaination = f"Since we're in base-{base}, that exceeds the maximum value of {digits[base-1]} for a single digit." if carry_over == 1 else f"Since we're in base-{base}, that doesn't exceed the maximum value of {digits[base-1]} for a single digit. "
+        explaination = f"Since we're in base-{base}, that exceeds the maximum value of {digits[base-1]} for a single digit. " if carry_over == 1 else f"Since we're in base-{base}, that doesn't exceed the maximum value of {digits[base-1]} for a single digit. "
         
         selected_noise_set = set()
     
@@ -275,7 +275,7 @@ class math(data_processor):
         assert self._get_label(expr) == tens_sum_w_carry + ones_sum[-1:]
         tens_carry_over = len(tens_sum_w_carry) > 1
         tens_carry_digit = 1 if tens_carry_over else 0
-        explaination = f"Since we're in base-{base}, that exceeds the maximum value of {digits[base-1]} for a single digit." if carry_over == 1 else f"Since we're in base-{base}, that doesn't exceed the maximum value of {digits[base-1]} for a single digit. "
+        explaination = f"Since we're in base-{base}, that exceeds the maximum value of {digits[base-1]} for a single digit. " if carry_over == 1 else f"Since we're in base-{base}, that doesn't exceed the maximum value of {digits[base-1]} for a single digit. "
     
         
         ret = f"In base-{base}, the digits are \"{digits[:base]}\". "

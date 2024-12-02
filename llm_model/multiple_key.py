@@ -50,7 +50,10 @@ def init_key_management(key_list):
 def init_api_key_handling(key_list, json_name = "apikey_manager.json"):
     global api_key
     global apikey_manager_name
-
+    
+    if api_key != None:
+        return api_key
+    
     def handle_exit():
         print("Exiting: Releasing API key...")
         release_key()

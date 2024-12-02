@@ -3,7 +3,7 @@ import yaml
 import openai
 from together import Together
 
-from ..multiple_key import init_api_key_handling
+from ..multiple_key import init_api_key_handling, release_key
 import concurrent
 import os
 from dotenv import load_dotenv
@@ -15,24 +15,31 @@ from openai import OpenAI
 
 class my_llama:    
     def __init__(self, model='meta-llama/Meta-Llama-3.1-70B-Instruct', config = None):
-        with open('deepinfra_key.yml', 'r') as f:
-            key_config = yaml.safe_load(f)
         self.prompt_tokens = 0 
         self.completion_tokens = 0 
         self.embedding_tokens = 0
         self.total_tokens = 0
         self.max_response_tokens = 1200
         
-        if isinstance(key_config["key"], list):   
-                key_list = key_config["key"]
-                self.key = init_api_key_handling(key_list, "deepinfra_key.json")
+        self.api = config["api"] if config != None else "deepinfra"
+        if self.api == "deepinfra":
+            key = os.getenv('DEEPINFRA_API_KEY')
+        elif self.api == "togetherai":
+            key = os.getenv('TOGETHERAI_API_KEY')
         else:
-            self.key = key_config["key"]
-            
-        self.client = OpenAI(
-            api_key=self.key,
-            base_url="https://api.deepinfra.com/v1/openai",
-        )
+            raise ValueError(f"unsupported api: {self.api}")
+        
+        if ":" in key:
+            key_list = key.split(":")
+            self.key = init_api_key_handling(key_list, "infra_apikey_manager.json")
+        else:
+            self.key = key
+
+        if self.api == "deepinfra":
+            self.client = OpenAI(
+                api_key=self.key,
+                base_url="https://api.deepinfra.com/v1/openai",
+            )
         self.prefix_context = True
         self.model = model
         pass
@@ -137,7 +144,7 @@ class my_llama:
         response_content = []
         if retval[0]:
             for response in responses:
-                response_content.append({"role":"assistent", "content": response})
+                response_content.append({"role":"assistant", "content": response})
             messages.append(response_content)  # the gemini format is "model" and "parts". This aims to use unique format in our program
         case["messages"] = messages
         return retval, messages
@@ -152,7 +159,7 @@ class my_llama:
                 if retval[0]:
                     response_content = []
                     for response in responses:
-                        response_content.append({"role":"assistent", "content": response})
+                        response_content.append({"role":"assistant", "content": response})
                     single_query.append(response_content)  # the gemini format is "model" and "parts". This aims to use unique format in our program
                     return
             if retval[0]:

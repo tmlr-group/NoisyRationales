@@ -69,7 +69,7 @@ class SelfDenoise:
                             if tokens >= model.max_prompt_tokens:
                                 new_cases_pass = 0
                                 break
-                            cases.append(new_case)
+                        cases.append(new_case)
                 all_cases += cases
             else:
                 all_cases.append(case)

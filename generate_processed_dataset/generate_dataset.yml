@@ -1,0 +1,25 @@
+
+dataset: commonsense # math and symbolic and commonsense 
+
+## subtask
+### math
+math:
+  subtask: base-11
+
+### symbolic
+symbolic:
+  subtask: longer # equal or longer
+
+raw_dataset_options:
+  ## in-context 
+  if_in_context: True
+  #--- noise setting ---
+  if_noise: False
+  noise_type: inaccurate # irrelevant or inaccurate
+  noise_ratio: 0.3 # 0.3, 0.5 or 0.8
+  noise_semantic_related: 0 # 0-2
+  noise_distribution: fixed # fixed or random 
+
+
+# ICL format
+prefix_context: True ## prefix
