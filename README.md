@@ -150,6 +150,8 @@ Configure experiment settings in `config.yml` and run:
 python noise_test.py
 ```
 
+For detailed configuration parameters, please refer to `config/introduction.md`
+
 #### Option 2: Command Line Arguments (for quick start)
 
 ``` bash
@@ -188,7 +190,7 @@ The results would appear in `./results/{task}/{subtask}/{model}/{method}/`
 
 The file will be `log_[ICL_|][n_clean_shots]clean_[noise_[n_noisy_shots][inaccurate|irrelevant]_[fixed|random]_ratio[ratio]|origin]_case[cases_num]_temp[temperature]_n[reasoning_times].json`
 
-## Config Introduction
+<!-- ## Config Introduction
 
 |Category | Parameter | Sub-Parameter | Description |Examples|
 |------ | ------ | ------ | ------ | ------ |
@@ -213,7 +215,7 @@ The file will be `log_[ICL_|][n_clean_shots]clean_[noise_[n_noisy_shots][inaccur
 ||prefix_context||Represent whether put in-context shots into the prompt prefix or mix as a messages list|True, False|
 ||method||Represent what kind of method to process the reasoning|CD-CoT, basemodel,  smoothllm, selfdenoise, selfpolish, contrastivecot, ISC, SCO, BT|
 ||temperature_reason||the reasoning temperature. Available if method is not CD-CoT|0-1|
-||n_reason||The reasoning repeat times. Available if method is not CD-CoT|1,2,3,4,5....|
+||n_reason||The reasoning repeat times. Available if method is not CD-CoT|1,2,3,4,5....| -->
 <!-- ||CD-CoT|||| -->
 <!-- ||gpt|api|version of gpt api|0.28, 1| -->
 <!-- |ICL|if_in_context|| symbol of whether use in-context demos |True, False|
