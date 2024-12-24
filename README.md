@@ -235,7 +235,8 @@ If you find our work helpful, please kindly cite our paper:
 @inproceedings{zhou2024can,
   title={Can Language Models Perform Robust Reasoning in Chain-of-thought Prompting with Noisy Rationales?},
   author={Zhou, Zhanke and Tao, Rong and Zhu, Jianing and Luo, Yiwen and Wang, Zengmao and Han, Bo},
-  booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
-  year={2024}
+  booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)},
+  year={2024},
+  url={https://openreview.net/pdf?id=FbuODM02ra}
 }
 ```
